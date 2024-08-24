@@ -1,5 +1,6 @@
 #!/bin/bash
 
-#---> This is comment
+#this is comment
 
-echo "shell script"
+echo (shell-script)
+
